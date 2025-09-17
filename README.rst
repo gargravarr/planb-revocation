@@ -102,3 +102,6 @@ Configuration
 
 .. _Plan B OpenID Connect Provider: https://github.com/zalando/planb-provider
 .. _Plan B Agent: https://github.com/zalando/planb-agent
+
+.. note::
+   Test update for merge request testing purposes.
